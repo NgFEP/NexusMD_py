@@ -56,7 +56,7 @@ NexusMD is organized in simple layers so users configure simulations in Python w
 1. **Install Anaconda**:
    - Download and install **Anaconda** from the [official website](https://docs.anaconda.com/anaconda/install/).
    - Select the following Advanced Installation Options during installation:
-     <img src="https://github.com/user-attachments/assets/bce75eea-439d-4f04-88cc-be6c3c7e6d50" style="width:50%; height:50%;">
+     <img src="[https://github.com/user-attachments/assets/bce75eea-439d-4f04-88cc-be6c3c7e6d50](https://github.com/user-attachments/assets/4eecaf25-de49-4784-9e67-13316219f6c1)" style="width:50%; height:50%;">
 
 2. **Create a New Anaconda Environment**:
    - Press `Win + S` and type **Environment Variables**.
