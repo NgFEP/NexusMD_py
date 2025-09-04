@@ -3,8 +3,8 @@
 A Molecular Dynamics Simulation Package for Drug Discovery
 ## Description
 
-NexusMD is a next-generation molecular dynamics (MD) package designed to accelerate drug discovery and biomolecular research.  
-This repository provides a **Python showcase** of the NexusMD interface. It contains a minimal test setup and examples so users can explore how NexusMD simulations are configured and executed, without exposing the backend source code.
+NexusMD is the next-generation molecular dynamics simulation software package to predict protein-ligand binding affinities leading to drug discovery. NexusMD is equipped with modern free energy methods, novel sampling algorithms, and parallel programming to support diverse scientific applications.  
+This repository provides a **Python showcase** of the NexusMD interface. It contains a minimal test setup and examples so users can explore how NexusMD simulations are configured and executed.
 ## Table of Contents
 
 - [Description](#description)
